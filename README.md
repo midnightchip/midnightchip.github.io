@@ -1,2 +1,0 @@
-# midnightchip.github.io
-Repo
