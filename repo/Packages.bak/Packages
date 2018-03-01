@@ -1,0 +1,16 @@
+Package: com.julioverne.ext3nder-installer
+Version: 017
+Section: Utilities
+Maintainer: MidnightChip <midnightchip@gmail.com>
+Depends: firmware (<7.0), mobilesubstrate, ldid, make, uuid, org.coolstar.ld64, org.coolstar.cctools, org.coolstar.iostoolchain
+Architecture: iphoneos-arm
+Filename: ./debs/com.julioverne.ext3nder-installer.deb
+Size: 579382
+SHA1: 65A4BD12104F27DBDE2A5A37E4E10A8E87525EB0
+SHA256: 2A217892E0C249A6A3402D01D2635EE9B22B1AC7E74D8CBC29EB5B3864DA4195
+MD5sum: A0FDBA216B0EFDDF04456E1E4CE9FDFA
+Description: Ext3nder-Installer Patched for iOS 11
+Name: Ext3nder-Installer
+Author: MidnightChip <midnightchip@gmail.com> Julio Verne
+Depiction: midnightchip.github.io/Reposi3/depictions/?p=
+
