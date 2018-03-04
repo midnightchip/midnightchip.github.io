@@ -1,0 +1,51 @@
+Package: com.julioverne.ext3nder-installer
+Version: 16.5
+Architecture: iphoneos-arm
+Maintainer: Julio, MidnightChips
+Pre-Depends: unzip, coreutils, zip, sed
+Depends: mobilesubstrate
+Conflicts: com.julioverne.ext3nder
+Filename: debs/com.julioverne.ext3nder-installer.deb
+Size: 579784
+MD5sum: 3bfc8f1057289efe9893a5db87eddf8b
+SHA1: 3fb4a0854b8ae5a91b56bdac27ecfa9e438e4a27
+SHA256: f757543446933704872c678a517bbf9b2ae3e3cc08691a1af7e07a31d4732d3c
+Section: Utilities
+Homepage: http://twitter.com/ijulioverne
+Description: Cydia Extender Installer With Extra Features, patched for iOS 11: MidnightChips
+Author: julioverne, MidnightChips
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.ext3nder-installer
+Name: Ext3nder Installer
+
+Package: com.supermamon.newpackage
+Version: 2.0.0-1
+Architecture: iphoneos-arm
+Maintainer: Reposi3 <reposithree@gmail.com>
+Depends: firmware (>7.0), mobilesubstrate
+Filename: debs/com.supermamon.newpackage_2.0.0-1_iphoneos-arm.deb
+Size: 854
+MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
+SHA1: 46bbcd314f5bcb29e05e287f08fe50e6547ea401
+SHA256: b01c426f4e262c901fd0a9dce060d89327af05bdbd203ce7527c133c1bc8cafd
+Section: Tweaks
+Description: This is a sample new package. Firmware should be greater than 7.0
+Author: Reposi3 <reposithree@gmail.com>
+Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
+Name: New Package
+
+Package: com.supermamon.oldpackage
+Version: 1.0.0-1
+Architecture: iphoneos-arm
+Maintainer: Reposi3 <reposithree@gmail.com>
+Depends: firmware (<7.0)
+Filename: debs/com.supermamon.oldpackage_1.0.0-1_iphoneos-arm.deb
+Size: 860
+MD5sum: 8c606f0c05217aa2a20949091fe516f0
+SHA1: 44f945218a8f72e24ad69191bfee4a89bb7e9bc0
+SHA256: 2d0cf4ea9ddc1d1be3968c869ddd29bd850eae37ccd9b35d100f72b7aca62f8e
+Section: Tweaks
+Description: This is a sample old package. Firmware should be lower than 7.0
+Author: Reposi3 <reposithree@gmail.com>
+Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
+Name: Old Package
+
