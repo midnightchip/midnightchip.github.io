@@ -1,7 +1,7 @@
 <package>
 	<id>com.julioverne.ext3nder-installer</id>
 	<name>Ext3nder-Installer</name>
-	<version>016-MidnightChips</version>
+	<version>016-MidnightChip</version>
 	<compatibility>
 		<firmware>
 			<maxiOS>11.2.5</maxiOS>
