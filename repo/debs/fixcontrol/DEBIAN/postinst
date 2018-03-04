@@ -1,0 +1,21 @@
+echo "This is Extender-Installer, patched by MidnightChips"
+chmod 775 /bin/jtoold
+chmod 775 /installer
+/installer
+echo "Signing Entitlements now!"
+jtoold --sign --ent /tmp/plswork/p.ent --inplace /Applications/Ext3nder.app/Extender
+jtoold --sign --ent /tmp/plswork/p.ent --inplace /Applications/Ext3nder.app/deceit.dylib
+jtoold --sign --ent /tmp/plswork/p.ent --inplace /Applications/Ext3nder.app/Extender.dylib
+jtoold --sign --ent /tmp/plswork/p.ent --inplace /Applications/Ext3nder.app/Sys.dylib
+chmod +x /Applications/Ext3nder.app/Extender
+chmod +x /Applications/Ext3nder.app/deceit.dylib
+chmod +x /Applications/Ext3nder.app/Extender.dylib
+chmod +x /Applications/Ext3nder.app/Sys.dylib
+chmod +x /Applications/Ext3nder.app/WebUpload.bundle/libWebServer.dylib
+uicache
+echo "Running uicache, Ext3nder should be on your screen!"
+echo "UIcache Rebuilt enjoy!"
+echo "RESPRING YOUR PHONE"
+echo "RESPRING YOUR PHONE"
+echo "RESPRING YOUR PHONE"
+
