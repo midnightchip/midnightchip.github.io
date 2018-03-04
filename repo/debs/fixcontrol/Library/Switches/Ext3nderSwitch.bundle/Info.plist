@@ -1,6 +1,0 @@
-{
-	CFBundleDisplayName = "Ext3nder";
-	CFBundleExecutable = "Ext3nderSwitch";
-	CFBundleIdentifier = "com.julioverne.ext3nder";
-	NSPrincipalClass = "Ext3nderManager";
-}
