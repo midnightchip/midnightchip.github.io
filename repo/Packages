@@ -15,3 +15,18 @@ Depiction: https://midnightchip.github.io/repo/depictions/?p=com.julioverne.ext3
 SHA1: 3fb4a0854b8ae5a91b56bdac27ecfa9e438e4a27
 SHA256: f757543446933704872c678a517bbf9b2ae3e3cc08691a1af7e07a31d4732d3c
 MD5sum: 3bfc8f1057289efe9893a5db87eddf8b
+
+
+Package: com.breadworks.fluidity
+Filename: ./debs/Fluidity.deb
+Name: Fluidity
+Author: Sam Breadman
+Version: 0.1.0
+Pre-Depends: 
+Conflicts: 
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: iPhone X UI and Gestures for non-iPhone X devices, iOS 11 only
+Maintainer: MidnightChips
+Section: Tweaks
+Depiction: https://midnightchip.github.io/repo/depictions/?p=Fluidity
