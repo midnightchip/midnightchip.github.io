@@ -1,0 +1,23 @@
+<package>
+	<id>com.julioverne.ext3nder-installer</id>
+	<name>Ext3nder-Installer</name>
+	<version>16.5</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>11.2.5</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies>ldid, unzip, coreutils, zip, sed, Darwin CC Tools, iOS Toolchain</dependencies>
+	<descriptionlist>
+		<description>Cydia Ext3nder Installer Made by Julio Verne, Patched for iOS 11 by MidnightChips, includes jtool, named jtoold if you want to run it from command line, installed in /bin, if you don't like it you can remove it. Credit for jtool goes to Jonathan Levin</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
