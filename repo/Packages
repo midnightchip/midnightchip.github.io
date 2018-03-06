@@ -31,16 +31,3 @@ Maintainer: MidnightChips
 Section: Tweaks
 Depiction: https://midnightchip.github.io/repo/depictions/?p=Fluidity
 
-Package: net.electricfilza.kdog0598
-Filename: https://github.com/kdog0598/kdog0598.github.com/raw/master/FilzaElectracuted.deb
-Name: Filza Electracuted
-Author: Dry05
-Version: 1.0.3
-Pre-Depends: 
-Conflicts: 
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Description: Filza for Electra jailbreak
-Maintainer: Kieran Wilson
-Section: System
-Depiction: 
