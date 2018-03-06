@@ -1,7 +1,7 @@
 <package>
-	<id>com.breadworks.fluidity</id>
-	<name>Fluidity</name>
-	<version>0.1.0</version>
+	<id>com.spark.EasySwitcherX</id>
+	<name>EasySwitcherX</name>
+	<version>0.0.1-14+debug</version>
 	<compatibility>
 		<firmware>
 			<maxiOS>11.2.5</maxiOS>
@@ -13,11 +13,11 @@
 	</compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
-		<description>iPhone X commands, UI for non-iPhone X Devices</description>
+		<description>Close Apps on the iPhoneX like all other devices</description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
-		<change>Final Release</change>
+		<change>Initial</change>
 	</changelog>
 	<links></links>
 </package>
