@@ -1,0 +1,17 @@
+Package: com.julioverne.ext3nder-installer
+Filename: ./debs/com.julioverne.ext3nder-installer.deb
+Name: Ext3nder Installer
+Author: julioverne, MidnightChips
+Version: 16.5
+Pre-Depends: unzip, coreutils, zip, sed
+Conflicts: com.julioverne.ext3nder
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Cydia Extender Installer With Extra Features, patched for iOS 11: MidnightChips
+Homepage: http://twitter.com/ijulioverne
+Maintainer: Julio, MidnightChips
+Section: Utilities
+Depiction: https://midnightchip.github.io/repo/depictions/?p=com.julioverne.ext3nder-installer
+SHA1: 3fb4a0854b8ae5a91b56bdac27ecfa9e438e4a27
+SHA256: f757543446933704872c678a517bbf9b2ae3e3cc08691a1af7e07a31d4732d3c
+MD5sum: 3bfc8f1057289efe9893a5db87eddf8b
