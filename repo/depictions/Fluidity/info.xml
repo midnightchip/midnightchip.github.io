@@ -1,7 +1,7 @@
 <package>
-	<id>com.julioverne.ext3nder-installer</id>
-	<name>Ext3nder-Installer</name>
-	<version>16.5</version>
+	<id>com.breadworks.fluidity</id>
+	<name>Fluidity</name>
+	<version>0.1.0</version>
 	<compatibility>
 		<firmware>
 			<maxiOS>11.2.5</maxiOS>
@@ -11,13 +11,13 @@
 			-->
 		</firmware>
 	</compatibility>
-	<dependencies>ldid, unzip, coreutils, zip, sed, Darwin CC Tools, iOS Toolchain</dependencies>
+	<dependencies></dependencies>
 	<descriptionlist>
-		<description>Cydia Ext3nder Installer Made by Julio Verne, Patched for iOS 11 by MidnightChips, includes jtool, named jtoold if you want to run it from command line, installed in /bin, if you don't like it you can remove it. Credit for jtool goes to Jonathan Levin</description>
+		<description>iPhone X commands, UI for non-iPhone X Devices</description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
-		<change>Initial release</change>
+		<change>Final Release</change>
 	</changelog>
 	<links></links>
 </package>
