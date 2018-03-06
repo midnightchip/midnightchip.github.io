@@ -1,0 +1,23 @@
+<package>
+	<id>com.breadworks.fluidity</id>
+	<name>Fluidity</name>
+	<version>0.1.0</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>11.2.5</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>iPhone X commands, UI for non-iPhone X Devices</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Final Release</change>
+	</changelog>
+	<links></links>
+</package>
