@@ -31,3 +31,16 @@ Maintainer: MidnightChips
 Section: Tweaks
 Depiction: https://midnightchip.github.io/repo/depictions/?p=Fluidity
 
+Package: com.spark.EasySwitcherX
+Filename: ./debs/EasySwitcherX.deb
+Name: EasySwitcherX
+Author: Spark
+Version: 0.0.1-14+debug
+Pre-Depends: 
+Conflicts: 
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Make the iPhone X close apps like its supposed to
+Maintainer: MidnightChips
+Section: Tweaks
+Depiction: https://midnightchip.github.io/repo/depictions/?p=EasySwitcherX
