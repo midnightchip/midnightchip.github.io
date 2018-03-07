@@ -34,3 +34,16 @@ SHA1: D633626D4969B4ED09F2CF455D63C7AE3C243784
 SHA256: FA73717B98400C138933181E66F2841269D8249092BFE7C9CE38010D73D14A33
 MD5: 9AC9B783966C6ADE610DD5799906B525
 
+Package: com.VitaTaf.HomeGesture
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: PINPAL <josh.hayes614@gmail.com>
+Filename: ./debs/HomeGesture.deb
+Size: 5230 
+MD5sum: e7c0652512a1855481eb4a2202cd0b7b
+SHA1: fda768faa63fbb85dece2b33f228e20d1c3b15a4
+SHA256: 9bab3eecdab93a4a43a62bcf9be9f33a28f042dc8dbc97f5de214071b098e25c
+Section: Tweaks
+Description: Enable iPhone X home gesture on other devices.
+Author: VitaTaf
+Name: Home Gesture
