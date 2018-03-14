@@ -2,8 +2,8 @@ Package: com.julioverne.ext3nder-installer
 Filename: ./debs/com.julioverne.ext3nder-installer.deb
 Name: Ext3nder Installer
 Author: julioverne, MidnightChips
-Version: 16.5
-Pre-Depends: unzip, coreutils, zip, sed
+Version: 16.6
+Pre-Depends: unzip, zip, sed
 Conflicts: com.julioverne.ext3nder
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
@@ -12,9 +12,10 @@ Homepage: http://twitter.com/ijulioverne
 Maintainer: Julio, MidnightChips
 Section: Utilities
 Depiction: https://midnightchip.github.io/repo/depictions/?p=com.julioverne.ext3nder-installer
-SHA1: 3fb4a0854b8ae5a91b56bdac27ecfa9e438e4a27
-SHA256: f757543446933704872c678a517bbf9b2ae3e3cc08691a1af7e07a31d4732d3c
-MD5sum: 3bfc8f1057289efe9893a5db87eddf8b
+Size: 579542
+SHA1: 8f2b09fe40221fab2491a1700dd47307dfe14b8f
+SHA256: 22edd086778e7bc9b4a02b54d9c8b7f5b2de9ffd22d9c18516c8686881352fb8
+MD5sum: 5951ed8e416be7ae1b8933ae453ca87e
 
 
 Package: com.breadworks.fluidity
