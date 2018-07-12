@@ -1,51 +1,75 @@
-Package: com.julioverne.ext3nder-installer
-Filename: ./debs/com.julioverne.ext3nder-installer.deb
-Name: Ext3nder Installer
-Author: julioverne, MidnightChips
-Version: 16.6
-Pre-Depends: unzip, zip, sed
-Conflicts: com.julioverne.ext3nder
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Description: Cydia Extender Installer With Extra Features, patched for iOS 11: MidnightChips
-Homepage: http://twitter.com/ijulioverne
-Maintainer: Julio, MidnightChips
-Section: Utilities
-Depiction: https://midnightchip.github.io/repo/depictions/?p=com.julioverne.ext3nder-installer
-Size: 579542
-SHA1: 8f2b09fe40221fab2491a1700dd47307dfe14b8f
-SHA256: 22edd086778e7bc9b4a02b54d9c8b7f5b2de9ffd22d9c18516c8686881352fb8
-MD5sum: 5951ed8e416be7ae1b8933ae453ca87e
-
-
 Package: com.breadworks.fluidity
-Filename: ./debs/Fluidity.deb
+Version: 0.1.0
+Section: Tweaks
+Maintainer: Kieran Wilson
+Architecture: iphoneos-arm
+Filename: debs//Fluidity.deb
+Size: 258862
+MD5sum: 9ac9b783966c6ade610dd5799906b525
+Description: Add iPX UI to other iOS 11 devices. Can be installed over FluidEnabler. Respring if Cydia doesn't.
 Name: Fluidity
 Author: Sam Breadman
-Version: 0.1.0
-Pre-Depends: 
-Conflicts: 
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Description: iPhone X UI and Gestures for non-iPhone X devices, iOS 11 only
-Maintainer: MidnightChips
-Section: Tweaks
-Size: 258862
-Depiction: https://midnightchip.github.io/repo/depictions/?p=Fluidity
-SHA1: d633626d4969b4ed09f2cf455d63c7ae3c243784
-SHA256: fa73717b98400c138933181e66f2841269d8249092bfe7c9ce38010d73d14a33
-MD5: 9ac9b783966c6ade610dd5799906b525
+Homepage: https://twitter.com/samthebreadman
+Depiction: 
 
-Package: com.VitaTaf.HomeGesture
-Version: 0.0.2
+Package: com.julioverne.ext3nder-installer
+Version: 16.7
+Section: Utilities
+Maintainer: Julio, MidnightChips
+Pre-Depends: unzip, zip, sed, curl
+Depends: mobilesubstrate
+Conflicts: com.julioverne.ext3nder
 Architecture: iphoneos-arm
-Maintainer: PINPAL <josh.hayes614@gmail.com>
-Filename: ./debs/HomeGesture.deb
-Size: 5230 
-MD5sum: e7c0652512a1855481eb4a2202cd0b7b
-SHA1: fda768faa63fbb85dece2b33f228e20d1c3b15a4
-SHA256: 9bab3eecdab93a4a43a62bcf9be9f33a28f042dc8dbc97f5de214071b098e25c
+Filename: debs//ext3nder.deb
+Size: 475688
+MD5sum: 13ec7414f40a7360cbd3dfcd913ed36e
+Description: Cydia Extender Installer With Extra Features, patched for iOS 11: MidnightChips
+Name: Ext3nder Installer
+Author: julioverne, MidnightChips
+Homepage: http://twitter.com/ijulioverne
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.ext3nder-installer
+
+Package: com.supermamon.newpackage
+Version: 2.0.0-1
 Section: Tweaks
+Maintainer: Reposi3 <reposithree@gmail.com>
+Depends: firmware (>7.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs//com.supermamon.newpackage_2.0.0-1_iphoneos-arm.deb
+Size: 854
+MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
+Description: This is a sample new package. Firmware should be greater than 7.0
+Name: New Package
+Author: Reposi3 <reposithree@gmail.com>
+Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
+
+Package: com.supermamon.oldpackage
+Version: 1.0.0-1
+Section: Tweaks
+Maintainer: Reposi3 <reposithree@gmail.com>
+Depends: firmware (<7.0)
+Architecture: iphoneos-arm
+Filename: debs//com.supermamon.oldpackage_1.0.0-1_iphoneos-arm.deb
+Size: 860
+MD5sum: 8c606f0c05217aa2a20949091fe516f0
+Description: This is a sample old package. Firmware should be lower than 7.0
+Name: Old Package
+Author: Reposi3 <reposithree@gmail.com>
+Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
+
+Package: com.vitataf.homegesture
+Version: 1.7.1
+Section: Tweaks
+Maintainer: MidnightChips/PINPAL
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Architecture: iphoneos-arm
+Filename: debs//com.vitataf.homegesture_1.7.1_iphoneos-arm.deb
+Size: 821254
+Installed-Size: 984
+MD5sum: 870a244e93f77de1a7880f6463cb7a95
 Description: Enable iPhone X home gesture on other devices.
-Author: VitaTaf
-Name: Home Gesture
+Name: HomeGesture
+Author: VitaTaf/MidnightChips/PINPAL
+Depiction: https://pinpal.github.io/package/HomeGesture/index.html
+Icon: https://cdn.discordapp.com/attachments/418170831592488972/465268776091254815/icon.png
+
