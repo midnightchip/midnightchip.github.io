@@ -54,7 +54,7 @@ Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, com.creaturecodi
 Architecture: iphoneos-arm
 Filename: debs//com.midnightchips.asteroid_1.0_iphoneos-arm.deb
 Size: 821254
-MD5sum: 870a244e93f77de1a7880f6463cb7a95
+MD5sum: f99da88ce39f58342fd77b11f413d45e
 Description: 
 Name: Asteroid
 Author: midnightchips & the casle
