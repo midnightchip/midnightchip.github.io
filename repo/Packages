@@ -29,33 +29,6 @@ Author: julioverne, MidnightChips
 Homepage: http://twitter.com/ijulioverne
 Depiction: http://julioverne.github.io/description.html?id=com.julioverne.ext3nder-installer
 
-Package: com.supermamon.newpackage
-Version: 2.0.0-1
-Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (>7.0), mobilesubstrate
-Architecture: iphoneos-arm
-Filename: debs//com.supermamon.newpackage_2.0.0-1_iphoneos-arm.deb
-Size: 854
-MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
-Description: This is a sample new package. Firmware should be greater than 7.0
-Name: New Package
-Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
-
-Package: com.supermamon.oldpackage
-Version: 1.0.0-1
-Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (<7.0)
-Architecture: iphoneos-arm
-Filename: debs//com.supermamon.oldpackage_1.0.0-1_iphoneos-arm.deb
-Size: 860
-MD5sum: 8c606f0c05217aa2a20949091fe516f0
-Description: This is a sample old package. Firmware should be lower than 7.0
-Name: Old Package
-Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
 Package: com.vitataf.homegesture
 Version: 1.7.1
@@ -72,4 +45,21 @@ Name: HomeGesture
 Author: VitaTaf/MidnightChips/PINPAL
 Depiction: https://pinpal.github.io/package/HomeGesture/index.html
 Icon: https://cdn.discordapp.com/attachments/418170831592488972/465268776091254815/icon.png
+
+Package: com.vitataf.homegesture
+Version: 1.0
+Section: Tweaks
+Maintainer: midnightchips & the casle
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, com.creaturecoding.libcspreferences, com.creaturesurvive.libcscolorpicker
+Architecture: iphoneos-arm
+Filename: debs//com.midnightchips.asteroid_1.0_iphoneos-arm.deb
+Size: 821254
+MD5sum: 870a244e93f77de1a7880f6463cb7a95
+Description: 
+Name: Asteroid
+Author: midnightchips & the casle
+dev: midnightchips & the casle
+Depiction: https://midnightchip.github.io/repo/depictions/?p=com.midnightchips.asteroid
+
+
 
