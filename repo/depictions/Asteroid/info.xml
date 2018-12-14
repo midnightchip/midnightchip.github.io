@@ -1,0 +1,23 @@
+<package>
+	<id>com.midnightchips.asteroid</id>
+	<name>Asteroid</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>11.3.1</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Weather animations, forecasts, and more</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>1.0</change>
+	</changelog>
+	<links></links>
+</package>
