@@ -104,6 +104,22 @@ Description: GUI frontend for ARP
 Author: midnightchips
 Name: Harpy
 
+Package: com.midnightchips.harpy
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: midnightchips
+Depends: firmware (>= 11.0), adv-cmds, bind, system-cmds, mdnsresponder, network-cmds, inetutils, libpcap, libssh2, perl, gawk
+Filename: ./debs/arpGUI1.0.1.deb
+Size: 4045198
+MD5sum: cdac6575c0a591fa83eeca8f7adbfd42
+SHA1: 5e11c290ac27678a4d79af3f927479da61358821
+SHA256: 4e6fca02a4ab2dbd3c7aff9dbe1620e9843b1bc8da41519729112d51177304e5
+Section: System
+Priority: optional
+Description: GUI frontend for ARP
+Author: midnightchips
+Name: Harpy
+
 Package: com.vitataf.homegesture
 Version: 1.7
 Architecture: iphoneos-arm
