@@ -88,38 +88,6 @@ Author: midnightchips & the casle
 Dev: midnightchips & the casle
 Name: Asteroid
 
-Package: com.midnightchips.harpy
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: midnightchips
-Depends: firmware (>= 11.0), adv-cmds, bind, system-cmds, mdnsresponder, network-cmds, inetutils, libpcap, libssh2, perl
-Filename: ./debs/arpGUI.deb
-Size: 4045200
-MD5sum: b2fe4d071bb85d0fa56f6da1bd178940
-SHA1: ed7162cbb658ae3b48e5efce028974a9d7625727
-SHA256: 4c5a6ed1ccb91074c77c2ad988e25cf40cad3136cff5dc8ad2a24c298991763a
-Section: System
-Priority: optional
-Description: GUI frontend for ARP
-Author: midnightchips
-Name: Harpy
-
-Package: com.midnightchips.harpy
-Version: 1.0.1
-Architecture: iphoneos-arm
-Maintainer: midnightchips
-Depends: firmware (>= 11.0), adv-cmds, bind, system-cmds, mdnsresponder, network-cmds, inetutils, libpcap, libssh2, perl, gawk
-Filename: ./debs/arpGUI1.0.1.deb
-Size: 4045198
-MD5sum: cdac6575c0a591fa83eeca8f7adbfd42
-SHA1: 5e11c290ac27678a4d79af3f927479da61358821
-SHA256: 4e6fca02a4ab2dbd3c7aff9dbe1620e9843b1bc8da41519729112d51177304e5
-Section: System
-Priority: optional
-Description: GUI frontend for ARP
-Author: midnightchips
-Name: Harpy
-
 Package: com.vitataf.homegesture
 Version: 1.7
 Architecture: iphoneos-arm
