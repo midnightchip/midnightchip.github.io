@@ -88,6 +88,24 @@ Author: midnightchips & the casle
 Dev: midnightchips & the casle
 Name: Asteroid
 
+Package: com.midnightchips.asteroid
+Version: 1.9.9
+Architecture: iphoneos-arm
+Maintainer: midnightchips & the casle
+Installed-Size: 1048
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, com.creaturecoding.libcspreferences, com.creaturesurvive.libcscolorpicker
+Filename: ./debs/com.midnightchips.asteroid_1.9.9_iphoneos-arm.deb
+Size: 624512
+MD5sum: 24771d9ae7917c4b080f8db141b56c72
+SHA1: 985cc5a09e4b60d928539af6cae99988ac1d74dd
+SHA256: 9d2af98ecac5253d555f7acfcd92b76589503b9b0db84716b4a5d11e18a7b91a
+Section: Tweaks
+Priority: optional
+Description: System-Wide Weather.
+Author: midnightchips & the casle
+Dev: midnightchips & the casle
+Name: Asteroid
+
 Package: com.vitataf.homegesture
 Version: 1.7
 Architecture: iphoneos-arm
