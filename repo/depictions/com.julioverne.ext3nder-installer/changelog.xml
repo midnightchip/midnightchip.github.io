@@ -1,6 +1,0 @@
-<changelog>
-	<changes>
-		<version>16.7</version>
-		<change>Removed shell scripts, built into the postinst now.</change>
-	</changes>
-</changelog>
