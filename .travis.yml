@@ -21,7 +21,7 @@ before_install:
 script:
   #- cd repo_layout
   - chmod +x ./dpkg-scanpackages
-  - ./dpkg-scanpackages debs ./debs  > ./Packages
+  - ./dpkg-scanpackages -m debs ./debs  > ./Packages
   - bzip2 -c9 ./Packages > ./Packages.bz2
 
 deploy:
