@@ -20,7 +20,6 @@ before_install:
 
 script:
   #- cd repo_layout
-  - echo "`pwd`"
   - chmod +x ./dpkg-scanpackages
   - ./dpkg-scanpackages debs ./debs  > ./Packages
   - bzip2 -c9 ./Packages > ./Packages.bz2
