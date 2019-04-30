@@ -21,9 +21,10 @@ before_install:
 script:
   #- cd repo_layout
   - chmod +x ./dpkg-scanpackages
-  - ./dpkg-scanpackages -m debs ./debs  > ./Packages
-  - bzip2 -c9 ./Packages > ./Packages.bz2
-
+  #- ./dpkg-scanpackages -m debs ./debs  > ./Packages
+  #- bzip2 -c9 ./Packages > ./Packages.bz2
+  - chmod +x ./Regen.sh 
+  - ./Regen.sh
 deploy:
   provider: pages
   skip_cleanup: true
