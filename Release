@@ -1,0 +1,17 @@
+Origin: MidnightChips Repo
+Label: MidnightChips Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: MidnightChips Main Repo
+MD5Sum:
+ b5eb562bbed2519710ede6a906b4c272 15218 Packages
+ 1fc1a7e29237483c64d2d51b000e0957 4538 Packages.bz2
+ f9e8f9c146386d562a793c5f3dcdbb19 4188 Packages.xz
+SHA256:
+ b05aa568d6b3d8252b7120e659095bad863a3612224eff16a5c8a34ac9b0274f 15218 Packages
+ 98141427d786e7a0892359f034e010d82212a67182786af905ba869b933d1bda 4538 Packages.bz2
+ 6f2230bd3c5c1966521480db30ee97dada57830902a2fa84309c0f27c6d48b14 4188 Packages.xz
+

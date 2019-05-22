@@ -1,0 +1,34 @@
+os: osx
+language: objective-c
+sudo: false
+name: A Helping Dwarf
+
+env:
+  global:
+    # $THEOS is absolutely needed for theos to even be found
+    #- THEOS=~/theos
+
+before_install:
+  # update homebrew and install dependencies
+  #- brew update
+
+  - brew install dpkg
+  - brew install md5sha1sum
+  
+  # install theos
+ # - git clone --recursive git://github.com/theos/theos.git ~/theos
+
+script:
+  #- cd repo_layout
+  - chmod +x ./dpkg-scanpackages
+  #- ./dpkg-scanpackages -m debs ./debs  > ./Packages
+  #- bzip2 -c9 ./Packages > ./Packages.bz2
+  - chmod +x ./Regen.sh 
+  - ./Regen.sh
+deploy:
+  provider: pages
+  skip_cleanup: true
+  github_token: $GITHUB_TOKEN  # Set in the settings page of your repository, as a secure variable
+  target_branch: master
+  on:
+    branch: deploy

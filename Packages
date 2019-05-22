@@ -1,0 +1,428 @@
+Package: com.breadworks.fluidity
+Version: 0.1.0
+Architecture: iphoneos-arm
+Maintainer: Kieran Wilson
+Filename: debs/Fluidity.deb
+Size: 258862
+MD5sum: 9ac9b783966c6ade610dd5799906b525
+SHA1: d633626d4969b4ed09f2cf455d63c7ae3c243784
+SHA256: fa73717b98400c138933181e66f2841269d8249092bfe7c9ce38010d73d14a33
+Section: Tweaks
+Homepage: https://twitter.com/samthebreadman
+Description: Add iPX UI to other iOS 11 devices. Can be installed over FluidEnabler. Respring if Cydia doesn't.
+Author: Sam Breadman
+Name: Fluidity
+
+Package: com.julioverne.ext3nder-installer
+Version: 16.5
+Architecture: iphoneos-arm
+Maintainer: Julio, MidnightChips
+Pre-Depends: unzip, coreutils, zip, sed
+Depends: mobilesubstrate
+Conflicts: com.julioverne.ext3nder
+Filename: debs/com.julioverne.ext3nder-installer16.5.deb
+Size: 579784
+MD5sum: 3bfc8f1057289efe9893a5db87eddf8b
+SHA1: 3fb4a0854b8ae5a91b56bdac27ecfa9e438e4a27
+SHA256: f757543446933704872c678a517bbf9b2ae3e3cc08691a1af7e07a31d4732d3c
+Section: Utilities
+Homepage: http://twitter.com/ijulioverne
+Description: Cydia Extender Installer With Extra Features, patched for iOS 11: MidnightChips
+Author: julioverne, MidnightChips
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.ext3nder-installer
+Name: Ext3nder Installer
+
+Package: com.julioverne.ext3nder-installer
+Version: 16.6
+Architecture: iphoneos-arm
+Maintainer: Julio, MidnightChips
+Pre-Depends: unzip, zip, sed
+Depends: mobilesubstrate
+Conflicts: com.julioverne.ext3nder
+Filename: debs/com.julioverne.ext3nder-installer.deb
+Size: 579542
+MD5sum: 5951ed8e416be7ae1b8933ae453ca87e
+SHA1: 8f2b09fe40221fab2491a1700dd47307dfe14b8f
+SHA256: 22edd086778e7bc9b4a02b54d9c8b7f5b2de9ffd22d9c18516c8686881352fb8
+Section: Utilities
+Homepage: http://twitter.com/ijulioverne
+Description: Cydia Extender Installer With Extra Features, patched for iOS 11: MidnightChips
+Author: julioverne, MidnightChips
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.ext3nder-installer
+Name: Ext3nder Installer
+
+Package: com.julioverne.ext3nder-installer
+Version: 16.7
+Architecture: iphoneos-arm
+Maintainer: Julio, MidnightChips
+Pre-Depends: unzip, zip, sed, curl
+Depends: mobilesubstrate
+Conflicts: com.julioverne.ext3nder
+Filename: debs/ext3nder.deb
+Size: 475688
+MD5sum: 13ec7414f40a7360cbd3dfcd913ed36e
+SHA1: 0f5626113d5a90431979f3a09f3c5b0a56d2f1db
+SHA256: 1cd5ce01bdc7e19c383842b672345311bca3213a43be9e9ed69a41b18021073f
+Section: Utilities
+Homepage: http://twitter.com/ijulioverne
+Description: Cydia Extender Installer With Extra Features, patched for iOS 11: MidnightChips
+Author: julioverne, MidnightChips
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.ext3nder-installer
+Name: Ext3nder Installer
+
+Package: com.midnightchips.asteroid
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: midnightchips & the casle
+Installed-Size: 1108
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, com.creaturecoding.libcspreferences, com.creaturesurvive.libcscolorpicker
+Filename: debs/com.midnightchips.asteroid_1.0_iphoneos-arm.deb
+Size: 630070
+MD5sum: f99da88ce39f58342fd77b11f413d45e
+SHA1: bab11ca088dd145913c694d1e508395fa3837695
+SHA256: 51d1b18a523c78d8a0c528c59344ebb672ee778fe8cefce26521388a8c35ec36
+Section: Tweaks
+Priority: optional
+Description: System-wide weather tweak.
+Author: midnightchips & the casle
+Dev: midnightchips & the casle
+Name: Asteroid
+
+Package: com.midnightchips.asteroid
+Version: 1.9.9
+Architecture: iphoneos-arm
+Maintainer: midnightchips & the casle
+Installed-Size: 1048
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, com.creaturecoding.libcspreferences, com.creaturesurvive.libcscolorpicker
+Filename: debs/com.midnightchips.asteroid_1.9.9_iphoneos-arm.deb
+Size: 624646
+MD5sum: 6f51d3572c981d1696b881722b9b6019
+SHA1: edf1142f9e4587aa12b787bb8afa706d954b20d2
+SHA256: 011a23977f9e1a36574c66c9cf77c2c491a77cf735750f4f3424a9feaaed1722
+Section: Tweaks
+Priority: optional
+Description: System-Wide Weather.
+Author: midnightchips & the casle
+Dev: midnightchips & the casle
+Name: Asteroid
+
+Package: com.midnightchips.bettersettings
+Version: 0.1.1
+Architecture: iphoneos-arm
+Maintainer: midnightchips
+Installed-Size: 1852
+Depends: mobilesubstrate, com.laughingquoll.prefixui, com.muirey03.libimagepicker, com.creaturesurvive.libcscolorpicker, com.creaturecoding.libcspreferences, org.thebigboss.libcolorpicker
+Filename: debs/com.midnightchips.bettersettings_0.1.1_iphoneos-arm.deb
+Size: 1269784
+MD5sum: 6fdf8bbf489a0a1c6b582d8058af594f
+SHA1: 4afcc9fdc76b1a8a0f05afd8aec9b9b75a63c8ff
+SHA256: 9963d989d65548429317ee05170b03cc36ecba9bff35a2a2f3e1ecc9731da14f
+Section: Tweaks
+Description: Settings your way
+Author: midnightchips
+Depiction: https://midnightchips.me/depictions/asteroid/
+Name: BetterSettings
+
+Package: com.midnightchips.bettersettings
+Version: 0.1.2
+Architecture: iphoneos-arm
+Maintainer: midnightchips
+Installed-Size: 1964
+Depends: mobilesubstrate, com.muirey03.libimagepicker, com.creaturesurvive.libcscolorpicker, com.creaturecoding.libcspreferences, org.thebigboss.libcolorpicker
+Filename: debs/com.midnightchips.bettersettings_0.1.2_iphoneos-arm.deb
+Size: 1242124
+MD5sum: 461d0bae8b1222725ae3fe482f1e2490
+SHA1: 5d3a483657875f9246b292b6a7327716e7ba68bc
+SHA256: 55625d97de93eed3b92aeec72d7b1a6448ce7a73018efb7d3360bf018c73d108
+Section: Tweaks
+Description: Settings your way
+Author: midnightchips
+Depiction: https://midnightchips.me/depiction/?bettersettings
+Icon: https://midnightchips.me/packages/bettersettings/PM.png
+Name: BetterSettings
+Sileodepiction: https://midnightchips.me/sileo/bettersettings.json
+
+Package: com.midnightchips.cleantab
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: midnightchips
+Installed-Size: 328
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap, applist, ws.hbang.common (>= 1.11)
+Filename: debs/com.midnightchips.cleantab_0.0.2_iphoneos-arm.deb
+Size: 25478
+MD5sum: 37b55eeac671d14f1f8bace905637a9e
+SHA1: efb1b272f0b9435b7612e1262fb587540ae0d2b0
+SHA256: b5e932c15f65db60630860a5f30806d90171ebfb8fa16c833d2a7330540c93d7
+Section: Tweaks
+Description: Remove iOS Tab Bar Labels
+Author: midnightchips
+Name: Clean Tab
+
+Package: com.midnightchips.homehijack
+Version: 1.3.2
+Architecture: iphoneos-arm
+Maintainer: MidnightChip
+Installed-Size: 372
+Depends: mobilesubstrate, applist, preferenceloader
+Filename: debs/HomeHijack.deb
+Size: 95682
+MD5sum: b116159027c6dda5199f9c50b454d350
+SHA1: 549c2b166ff20fbc8424fe754ceb3c464015b570
+SHA256: b6f5f16d0513483e5f8faf8157243a8a20b771be71620b78aa6d80ce7cae7b66
+Section: Tweaks
+Description: Get rid of the annoying Siri, and use something worthwhile!
+Author: MidnightChip
+Depiction: https://repo.auxiliumdev.com/depictions/?p=HomeHijack
+Icon: file:///Library/PreferenceBundles/homehijackpreferences.bundle/icon.png
+Name: HomeHijack
+
+Package: com.midnightchips.ldRun
+Version: 0.0.4
+Architecture: iphoneos-arm
+Maintainer: midnightchips
+Installed-Size: 132
+Filename: debs/ldrun.deb
+Size: 3648
+MD5sum: 8bf048e97a595667fc65d2650cf2f002
+SHA1: 5944157392e687c433f3fca788eaa221ff8bbe0a
+SHA256: d7556af1149c14ff6b042f1cca1d4c4cb2ff39ed82281896d66b651e9f358e62
+Section: System
+Description: A binary to run ldrestart as root.
+Tag: role::hacker
+Author: midnightchips
+Name: ldRun
+
+Package: com.neinzedd9.dateundertimex
+Version: 1.2.2
+Architecture: iphoneos-arm
+Maintainer: MidnightChips
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: debs/com.neinzedd9.dateundertimex_1.2.2_iphoneos-arm.deb
+Size: 3636
+MD5sum: 3a807a144d7cb6d0b1a3d53cbf05ad60
+SHA1: 7cc5278ebd952363194641240c394be30aa02c99
+SHA256: 0b0a366358eb9ab3f84c58942fd97cf274a55d95305b93d44782d1797126a141
+Section: Tweaks
+Description: Adds the date under the status bar on Devices with the Modern Statusbar
+Author: NeinZedd9
+Name: DateUnderTimeX-A12
+
+Package: com.vitataf.homegesture
+Version: 1.7
+Architecture: iphoneos-arm
+Maintainer: MidnightChips/PINPAL
+Installed-Size: 984
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Filename: debs/com.vitataf.homegesture_1.7_iphoneos-arm.deb
+Size: 821316
+MD5sum: 07b3b0cd70ee6e5143bbabed7f1008b5
+SHA1: 1e0d41f05e6304ca2f186b80f29660c1006c81bd
+SHA256: 7a5f0742344fa196fccd00ff0a60ab9d6ced1131c1b01617debf3118b4121e0f
+Section: Tweaks
+Description: Enable iPhone X home gesture on other devices.
+Author: VitaTaf/MidnightChips/PINPAL
+Depiction: https://pinpal.github.io/package/HomeGesture/index.html
+Icon: https://cdn.discordapp.com/attachments/418170831592488972/465268776091254815/icon.png
+Name: HomeGesture
+
+Package: com.vitataf.homegesture
+Version: 1.7.1
+Architecture: iphoneos-arm
+Maintainer: MidnightChips/PINPAL
+Installed-Size: 984
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Filename: debs/com.vitataf.homegesture_1.7.1_iphoneos-arm.deb
+Size: 821254
+MD5sum: 870a244e93f77de1a7880f6463cb7a95
+SHA1: c24c53d8cfc295c48c3849bcde826d033938b455
+SHA256: a3255a1e4a99f42e178f501bd4154a612359322568efe2a78f0f005b669b38ea
+Section: Tweaks
+Description: Enable iPhone X home gesture on other devices.
+Author: VitaTaf/MidnightChips/PINPAL
+Depiction: https://pinpal.github.io/package/HomeGesture/index.html
+Icon: https://cdn.discordapp.com/attachments/418170831592488972/465268776091254815/icon.png
+Name: HomeGesture
+
+Package: com.vitataf.homegesturelite
+Version: 1.4
+Architecture: iphoneos-arm
+Maintainer: MidnightChips PINPAL
+Installed-Size: 88
+Depends: mobilesubstrate
+Filename: debs/com.vitataf.homegesturelite_1.4_iphoneos-arm.deb
+Size: 4010
+MD5sum: 18974af8a0055e53af077731087f348c
+SHA1: 4fd3474814d13e91595f36255f243ae5dc7a7561
+SHA256: 397c90f5b3b0bd759b2dee70428ab437cd3ee72c0a338fede10e3c0804483d49
+Section: Tweaks
+Description: Enable iPhone X home gesture on other devices.
+Author: VitaTaf
+Name: HomeGesture Lite
+
+Package: com.vitataf.homegesturelite
+Version: 1.5
+Architecture: iphoneos-arm
+Maintainer: MidnightChips PINPAL
+Installed-Size: 88
+Depends: mobilesubstrate
+Filename: debs/com.vitataf.homegesturelite_1.5_iphoneos-arm.deb
+Size: 3428
+MD5sum: 6dc0345d40bd322af3ad922cbe9d7e3c
+SHA1: 26a6e2843349ecd135ee7ff1a0adf8c304513d48
+SHA256: 42ca286caf2461c46e1a5f2a8468e60c43cc353d87f0ccea3350718cccc13b2c
+Section: Tweaks
+Description: Enable iPhone X home gesture on other devices.
+Author: VitaTaf
+Name: HomeGesture Lite
+
+Package: com.wizage.gif2ani2
+Version: 2.1.1
+Architecture: iphoneos-arm
+Maintainer: wizages, MidnightChips
+Installed-Size: 424
+Depends: mobilesubstrate, com.creaturesurvive.libcscolorpicker, com.creaturecoding.libcspreferences, org.thebigboss.libcolorpicker
+Provides: com.aditkamath.springy
+Filename: debs/com.wizage.gif2ani2_2.1.1_iphoneos-arm.deb
+Size: 38252
+MD5sum: 41b78e1f544911e97171bde59beab137
+SHA1: 3d540d32fabd988df57eafdc7d129dbbb5a0daf0
+SHA256: 38b752abdd0f3e5ca163ee7a450591d43fa287285a2f0d1cd4b9b7b94b62f3ec
+Section: Tweaks
+Description: iOS Respring animations from any gif you want!
+Author: wizages, MidnightChips
+Name: Gif2Ani V2
+
+Package: me.midnightchips.snapback
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: MidnightChips
+Installed-Size: 992
+Depends: firmware (>= 10.3.0), rsync, cy+cpu.arm64
+Filename: debs/me.midnightchips.snapback_1.0_iphoneos-arm.deb
+Size: 515108
+MD5sum: 79167fb9052abaeb0f94e726fb9375a9
+SHA1: 08aeb9d71a921f2b35bd8f0668895a7b8614622b
+SHA256: a0e509ba225f78bdb08f464521b7fdbb44740d0034972ee07a5cdecc9fd07ab4
+Section: Application
+Description: iOS Time Machine
+Author: MidnightChips
+Name: SnapBack
+
+Package: me.midnightchips.snapback
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: MidnightChips
+Installed-Size: 992
+Depends: firmware (>= 10.3.0), rsync, cy+cpu.arm64
+Filename: debs/me.midnightchips.snapback_1.0.1_iphoneos-arm.deb
+Size: 515492
+MD5sum: e6b85c09c264970bd68e49e5be81c8ee
+SHA1: 7b8db1ae1223f0402661f1ffac2f12927232811d
+SHA256: a756fadb44eb14c2e2e8c1e7fe81d713ecce4175182d124156f05c3ce01a5c3a
+Section: Application
+Description: iOS Time Machine
+Author: MidnightChips
+Name: SnapBack
+
+Package: me.midnightchips.snapback
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: MidnightChips
+Installed-Size: 992
+Depends: firmware (>= 10.3.0), rsync, cy+cpu.arm64
+Filename: debs/me.midnightchips.snapback_1.0.2_iphoneos-arm.deb
+Size: 515674
+MD5sum: c28d3bfce28a1d2b81917080ab26897c
+SHA1: f92d62bf9de615457758c9415aa05510edb8f8fc
+SHA256: 108444bd1c881a533ec02945641354d92b5d1b6a8ffbfc0e2fc4c4b50de48399
+Section: Application
+Description: iOS Time Machine
+Author: MidnightChips
+Depiction: https://midnightchips.me/depiction/?snapback
+Name: SnapBack
+
+Package: me.midnightchips.snapback
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: MidnightChips
+Installed-Size: 992
+Depends: firmware (>= 10.3.0), rsync, cy+cpu.arm64
+Filename: debs/me.midnightchips.snapback_1.0.3_iphoneos-arm.deb
+Size: 515718
+MD5sum: b26d2287e3008d214e36d2c631c47d5a
+SHA1: 7f0a050a05d29a9672e86857067595d8134c3ac8
+SHA256: c3c330012a45051a860f3b7474fa80230b3bdc0f4022554b5a0cffb79a230038
+Section: System
+Description: iOS Time Machine
+Author: MidnightChips
+Depiction: https://midnightchips.me/depiction/?snapback
+Name: SnapBack (BETA)
+
+Package: me.midnightchips.snapback
+Version: 1.0.4
+Architecture: iphoneos-arm
+Maintainer: MidnightChips
+Installed-Size: 992
+Depends: firmware (>= 10.3.0), rsync, cy+cpu.arm64
+Filename: debs/me.midnightchips.snapback_1.0.4_iphoneos-arm.deb
+Size: 515366
+MD5sum: 9df8941518f49503d2fa763acc96d20f
+SHA1: 84876a5efefc38bc47a4846dfd147f0f4a362c7c
+SHA256: 666daa6ff5f289240a5f5f4994a2599aa227356be000122632195ab89af5498a
+Section: System
+Description: iOS Time Machine
+Author: MidnightChips
+Depiction: https://midnightchips.me/depiction/?snapback
+Icon: https://midnightchips.me/packages/SnapBack/SileoIcon.png
+Name: SnapBack (BETA)
+Sileodepiction: https://midnightchips.me/sileo/snapback.json
+
+Package: me.midnightchips.trolldrop
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: MidnightChips
+Depends: firmware (>= 11.0), com.modmyi.libswift4
+Filename: debs/Trolldrop1.0.0.deb
+Size: 870220
+MD5sum: 04e50555012dfd5c923fb695bd176760
+SHA1: 136d70ce2f1e8d56c3024684629f30f32c395e57
+SHA256: 84f1869f0bc2edfdeb99b33f498e8998937116a3a57b18cc2a5a142008e9a9c7
+Section: System
+Description: AirDrop Flooder GUI
+Author: MidnightChips, XMB5
+Depiction: https://midnightchips.me/depiction/?trolldrop-gui
+Name: Trolldrop
+
+Package: me.midnightchips.trolldrop
+Version: 1.0.0~beta1
+Architecture: iphoneos-arm
+Maintainer: MidnightChips
+Depends: firmware (>= 11.0), com.modmyi.libswift4
+Filename: debs/Trolldrop1.0.0~beta1.deb
+Size: 307188
+MD5sum: ece9bb49c60e277927dc295b1979757c
+SHA1: 2dfe6564c0f46f0cb4da095a29b63fe0dd088b69
+SHA256: 9e05593eba89f10b8a17cc4b74d02cc6512ab122bd9696367f99f82acb65d146
+Section: System
+Description: AirDrop Flooder GUI
+Author: MidnightChips, XMB5
+Depiction: https://midnightchips.me/depiction/?trolldrop-gui
+Name: Trolldrop (BETA)
+
+Package: me.midnightchips.trolldrop12-cli
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: MidnightChips
+Depends: firmware (>= 11.0), com.modmyi.libswift4
+Filename: debs/trolldropcli.deb
+Size: 26508
+MD5sum: 8668a3ea03224c330366a3790f36b427
+SHA1: f6288842aac15222f6572e1040ccdb47dcf7c688
+SHA256: 6308fe715634e9d31ac5bca25d1d3d1755773d6aba04f05ccccfe2288d7ba276
+Section: System
+Description: AirDrop Flooder, Command Line Interface
+Author: MidnightChips, XMB5
+Depiction: https://midnightchips.me/depiction/?trolldrop12
+Name: trolldrop12-cli
+
