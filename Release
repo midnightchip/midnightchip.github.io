@@ -1,8 +1,17 @@
-Origin: MidnightChips
+Origin: MidnightChips Repo
 Label: MidnightChips Repo
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: MidnightChips Jailbreak Repository
+Description: MidnightChips Main Repo
+MD5Sum:
+ 815d6e59006b2ccf428cea424562fa52 15803 Packages
+ b014073fa61bf8b32e1722daf047fab5 4710 Packages.bz2
+ b01a7e4713719f4e40f4d837a798ca30 4372 Packages.xz
+SHA256:
+ 1bfb68b8c7ed71790bed1b3c84b4a9b3f58527f1dcd7324ed76c73f7c7002b9d 15803 Packages
+ 8f99b8d2b30b466b38b698504c34c85dbbef0a1c9d6590aec9a217caa34d220e 4710 Packages.bz2
+ 3ac78450b3d9a2f6d066d6b416b6926c7abaf1e1d469ed7de03d5756ffd1d475 4372 Packages.xz
+
