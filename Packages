@@ -293,6 +293,22 @@ Description: iOS Respring animations from any gif you want!
 Author: wizages, MidnightChips
 Name: Gif2Ani V2
 
+Package: me.midnightchips.personalized-cc
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: MidnightChips
+Installed-Size: 692
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), ws.hbang.common (>= 1.17), com.muirey03.libmryipc
+Filename: debs/me.midnightchips.personalized-cc_0.0.1_iphoneos-arm.deb
+Size: 56884
+MD5sum: 4bfed6e1dd3be1fe2a14a4c584362524
+SHA1: 9ceffd2037cb6d7022b6fef8e3c97667d3c90056
+SHA256: 16a2e6ee81c36a6cc1f4c1b1013c38db0bd135db1a4756956ce102587c3dbc0a
+Section: Tweaks
+Description: Customize your Control Center
+Author: MidnightChips
+Name: Personalized CC
+
 Package: me.midnightchips.snapback
 Version: 1.0
 Architecture: iphoneos-arm
