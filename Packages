@@ -309,6 +309,22 @@ Description: Customize your Control Center
 Author: MidnightChips
 Name: Personalized CC
 
+Package: me.midnightchips.pipedownsiri
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: midnightchips
+Installed-Size: 216
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/me.midnightchips.pipedownsiri_0.0.1_iphoneos-arm.deb
+Size: 3706
+MD5sum: c336aa3fff6ab4910559de9759288ae1
+SHA1: 2ee3a172b74de2116e9ccbdf2c48fd49c578ea87
+SHA256: 588cbf18f2e78182f9244175b4d71deba840d79f12deed3b781967964e830da0
+Section: Tweaks
+Description: Make Siri Quite
+Author: midnightchips
+Name: Pipe Down Siri!
+
 Package: me.midnightchips.snapback
 Version: 1.0
 Architecture: iphoneos-arm
