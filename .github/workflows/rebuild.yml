@@ -1,0 +1,15 @@
+
+name: Rebuild Frontend
+on: 
+  push:
+    branches:
+      - deploy
+jobs:
+  deployment:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Deploy Stage
+      uses: fjogeleit/http-request-action@master
+      with:
+        url: ${{ secrets.REPO_URL }}
+        method: 'GET'
