@@ -7,11 +7,11 @@ Architectures: iphoneos-arm
 Components: main
 Description: MidnightChips Main Repo
 MD5Sum:
- dac222eb8628733c97f4405846d4cde6 16299 Packages
- 6c6a640c485bd421dfeed4d49940fc5e 4837 Packages.bz2
- 69eb75e23a330536c461c621b69f48d4 4516 Packages.xz
+ dede048ad92e8c75b5c0f68a4b9e9777 17407 Packages
+ ae45ed02a1ad13a96b330ecbdaf66dcd 5100 Packages.bz2
+ 35430baa4f9e7cd80154dbe91e302b72 4764 Packages.xz
 SHA256:
- 151486228d05dc9e2fdbc21ce0eb3fecacda2d0fd3f190eb98a339787d1947b1 16299 Packages
- e15dc4956503198868c19e3f601bb563487d5db24e5cc09798a0c5a9ecd7bca2 4837 Packages.bz2
- 767c5bad67c618e7c1b4eaa7982d697c5785583f4b1aa1183a90848c453e1928 4516 Packages.xz
+ d2b2f6e0fbda2e11339ce41520307e384b169de7837498812e49091b8abbf8ec 17407 Packages
+ a1ee731c7b3ccc0de53938d6f16534c84bc57131c5ac37765b5a86fe553ae6fe 5100 Packages.bz2
+ 60e5649d24f136fe5832ead281524ef51bded3deacc0e9f0c6aa43ea134d35b5 4764 Packages.xz
 

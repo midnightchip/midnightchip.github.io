@@ -325,6 +325,38 @@ Description: Make Siri Quite
 Author: midnightchips
 Name: Pipe Down Siri!
 
+Package: me.midnightchips.pipedownsiri
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: midnightchips
+Installed-Size: 216
+Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.common (>= 1.17)
+Filename: debs/me.midnightchips.pipedownsiri_0.0.2_iphoneos-arm.deb
+Size: 4476
+MD5sum: 3101de6c90a2fc87058d174712df78bc
+SHA1: bd2c342954f798d187159b8419f0d376911d818c
+SHA256: 7657d0d5cc8f9aeff16b376e005aa197607a17509a9cf5b1e92d149b5ccac060
+Section: Tweaks
+Description: Make Siri Quite
+Author: midnightchips
+Name: Pipe Down Siri!
+
+Package: me.midnightchips.pipedownsiritoggle
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: MidnightChips
+Installed-Size: 172
+Depends: mobilesubstrate, ws.hbang.common (>= 1.17), com.opa334.ccsupport
+Filename: debs/me.midnightchips.pipedownsiritoggle_0.0.1_iphoneos-arm.deb
+Size: 6244
+MD5sum: 246e815ff9ae649f71a6726f11a2dd74
+SHA1: 98a6228e555c18f2b2be17437836a3a516f78f63
+SHA256: fd9b4b2b96885b935f3c7ddfcf23f82c9343d7dc1572fb4e278143a6ab3c85ac
+Section: Control Center (Modules)
+Description: Mute siri from the control panel!
+Author: MidnightChips
+Name: Pipe Down Siri Toggle
+
 Package: me.midnightchips.snapback
 Version: 1.0
 Architecture: iphoneos-arm
